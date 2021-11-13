@@ -11,9 +11,6 @@
 #define PRODUCT         SSMP
 #define DESCRIPTION     Super Simple Macropad
 
-/* MIDI */
-#define MIDI_ADVANCED
-
 /* key matrix size */
 #define MATRIX_ROWS 2
 #define MATRIX_COLS 4
