@@ -1,4 +1,5 @@
 # ssmp-firmware
+![ssmp](https://user-images.githubusercontent.com/49064/141663093-b90a3f66-c76d-490d-bb50-8a08c32aeea8.jpg)
 
 This is the unofficial firmware repo for the 256klabs [SUPER SIMPLE MACROPAD](https://www.etsy.com/ca/listing/1088544281/super-simple-macropad) and also includes support for basic MIDI keymaps. This is where to start if you need to redownload the SSMP firmware, download firmware for the SSMP that supports MIDI, or access the source code to extend the firmware to customize your SSMP beyond what is already provided. SSMP firmware is a version of [QMK Firmware](https://qmk.fm/) that has been configured to work for the SUPER SIMPLE MACROPAD. 
 
